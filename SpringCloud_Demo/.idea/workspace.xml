@@ -35,7 +35,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="SchedualServiceHi.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="SchedualServiceHi.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/serice-feign/src/main/java/com/zydlxx/sericefeign/SchedualServiceHi.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="225">
@@ -47,10 +47,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="HiController.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="HiController.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/serice-feign/src/main/java/com/zydlxx/sericefeign/HiController.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="175">
+            <state relative-caret-position="275">
               <caret line="11" column="30" selection-start-line="11" selection-start-column="30" selection-end-line="11" selection-end-column="30" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -149,7 +149,7 @@
   <component name="NodePackageJsonFileManager">
     <packageJsonPaths />
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="793" />
     <option name="width" value="814" />
     <option name="height" value="867" />
@@ -165,86 +165,6 @@
             <path>
               <item name="SpringCloud_Demo" type="b2602c69:ProjectViewProjectNode" />
               <item name="SpringCloud_Demo" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="SpringCloud_Demo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="SpringCloud_Demo" type="462c0819:PsiDirectoryNode" />
-              <item name="eureka_client" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="SpringCloud_Demo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="SpringCloud_Demo" type="462c0819:PsiDirectoryNode" />
-              <item name="eureka_client" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="SpringCloud_Demo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="SpringCloud_Demo" type="462c0819:PsiDirectoryNode" />
-              <item name="eureka_client" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="SpringCloud_Demo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="SpringCloud_Demo" type="462c0819:PsiDirectoryNode" />
-              <item name="eureka_client" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="SpringCloud_Demo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="SpringCloud_Demo" type="462c0819:PsiDirectoryNode" />
-              <item name="serice-feign" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="SpringCloud_Demo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="SpringCloud_Demo" type="462c0819:PsiDirectoryNode" />
-              <item name="serice-feign" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="SpringCloud_Demo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="SpringCloud_Demo" type="462c0819:PsiDirectoryNode" />
-              <item name="serice-feign" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="SpringCloud_Demo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="SpringCloud_Demo" type="462c0819:PsiDirectoryNode" />
-              <item name="serice-feign" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="SpringCloud_Demo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="SpringCloud_Demo" type="462c0819:PsiDirectoryNode" />
-              <item name="serice-feign" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="sericefeign" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="SpringCloud_Demo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="SpringCloud_Demo" type="462c0819:PsiDirectoryNode" />
-              <item name="serice-feign" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="SpringCloud_Demo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="SpringCloud_Demo" type="462c0819:PsiDirectoryNode" />
-              <item name="service-ribbon" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="SpringCloud_Demo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="SpringCloud_Demo" type="462c0819:PsiDirectoryNode" />
-              <item name="service-ribbon" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -360,15 +280,15 @@
       <updated>1529565645029</updated>
       <workItem from="1529565656518" duration="3208000" />
       <workItem from="1529568886865" duration="1856000" />
-      <workItem from="1529628525443" duration="1088000" />
+      <workItem from="1529628525443" duration="1175000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6152000" />
+    <option name="totallyTimeSpent" value="6239000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1616" height="876" extended-state="7" />
+    <frame x="-8" y="-8" width="1616" height="876" extended-state="6" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
@@ -391,7 +311,7 @@
       <window_info anchor="bottom" id="Run" order="2" weight="0.35939643" />
       <window_info anchor="bottom" id="Spring" order="7" />
       <window_info anchor="bottom" id="Terminal" order="7" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.15745501" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.31491002" />
       <window_info anchor="right" id="Bean Validation" order="3" />
       <window_info id="Web" order="2" side_tool="true" />
       <window_info anchor="right" id="Theme Preview" order="3" />
@@ -609,16 +529,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/serice-feign/src/main/java/com/zydlxx/sericefeign/HiController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="175">
-          <caret line="11" column="30" selection-start-line="11" selection-start-column="30" selection-end-line="11" selection-end-column="30" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/serice-feign/src/main/java/com/zydlxx/sericefeign/SericeFeignApplication.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="150">
@@ -630,6 +540,16 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="225">
           <caret line="9" column="33" selection-start-line="9" selection-start-column="33" selection-end-line="9" selection-end-column="33" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/serice-feign/src/main/java/com/zydlxx/sericefeign/HiController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="275">
+          <caret line="11" column="30" selection-start-line="11" selection-start-column="30" selection-end-line="11" selection-end-column="30" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
